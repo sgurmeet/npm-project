@@ -1,0 +1,19 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgurmeet/npm-project.git"
+  },
+  "author": "Gurmeet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgurmeet/npm-project/issues"
+  },
+  "homepage": "https://github.com/sgurmeet/npm-project#readme"
+}
